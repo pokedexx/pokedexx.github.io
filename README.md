@@ -4,7 +4,7 @@
 
 ### Pokémon
 
-Pokémon images, names and information (c) 1995-2014 Nintendo/Game freak.
+Pokémon images, names and information (c) 1995-2021 Nintendo/Game freak.
 
 Images and content were taken from the following resources:
 
