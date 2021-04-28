@@ -1,5 +1,7 @@
 # Pokédex
 
+ A Pokedex made with React.js 
+
 ## LEGAL
 
 ### Pokémon
