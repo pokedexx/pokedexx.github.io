@@ -1,13 +1,9 @@
 # Pokédex
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
  A Pokedex made with React.js 
 
 ## LEGAL
-
-### Pokémon
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 
 Pokémon images, names and information (c) 1995-2021 Nintendo/Game freak.
 
