@@ -6,6 +6,9 @@
 
 ### Pokémon
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
 Pokémon images, names and information (c) 1995-2021 Nintendo/Game freak.
 
 Images and content were taken from the following resources:
